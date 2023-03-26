@@ -1,4 +1,4 @@
-# AWS
+# AWS Linear Learner
 Employee Salary Predictions Using AWS Sagemaker Linear Learner
 Project Overview: The objective is to predict the employee salary based in the number of exprience.
 
