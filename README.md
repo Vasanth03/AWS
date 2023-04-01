@@ -38,7 +38,7 @@ Linear Learner supports
 + Step 2 - > Import Key libraries and dataset
 + Step 3 - > Perform Exploratory Data Analysis
 + Step 4 - > Create training & testing dataset
-+ Step 5 - > Train a linear Regeression Model in Sklearn
++ Step 5 - > Train a Linear Regeression Model in Sklearn
 + Step 6 - > Evaluate trained model performance
 + Step 7 - > Train a linear learner model in SageMaker
 + Step 8 - > Deploy model & invoke endpoint in SageMaker
